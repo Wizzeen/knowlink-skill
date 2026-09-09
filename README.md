@@ -6,7 +6,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-green)](https://nodejs.org)
 [![npm version](https://img.shields.io/npm/v/knowlink-page.svg)](https://www.npmjs.com/package/knowlink-page)
-[![npm downloads](https://img.shields.io/npm/dm/knowlink-page.svg)](https://www.npmjs.com/package/knowlink-page)
 
 [中文文档](./README.zh-CN.md) · [KnowLink View (Chrome Extension)](https://github.com/Wizeeeee/knowlink-view)
 
