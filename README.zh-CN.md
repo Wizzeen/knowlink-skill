@@ -18,6 +18,16 @@
 - **自包含输出**：单个 HTML 文件，内联数据 + 样式 + 引擎，可离线分享
 - **Canvas 渲染**：缩放 / 平移 / 搜索 / 详情面板
 
+## 效果展示
+
+**Obsidian 主题**（默认，浅色）：
+
+![Obsidian 主题](docs/screenshots/skill-obsidian.png)
+
+**Space 主题**（深色星空）：
+
+![Space 主题](docs/screenshots/skill-space.png)
+
 ## 快速开始
 
 ```bash

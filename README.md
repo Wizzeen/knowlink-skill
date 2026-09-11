@@ -17,6 +17,16 @@
 - **Self-contained output**: a single HTML file with inline data + styles + engine, shareable offline
 - **Canvas rendering**: zoom / pan / search / detail panel
 
+## Screenshots
+
+**Obsidian theme** (default, light):
+
+![Obsidian theme](docs/screenshots/skill-obsidian.png)
+
+**Space theme** (dark starfield):
+
+![Space theme](docs/screenshots/skill-space.png)
+
 ## Quick Start
 
 ```bash
